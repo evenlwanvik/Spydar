@@ -1,3 +1,3 @@
-![alt text](images/Spydar_logo.png)
+![alt text](images/Spydar_logo2.png)
 
 Spider detection..
